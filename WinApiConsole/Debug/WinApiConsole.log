@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\projects\c++\winapiconsoleapp\winapiconsole\main.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  WinApiConsole.vcxproj -> D:\Projects\C++\WinApiConsoleApp\Debug\WinApiConsole.exe

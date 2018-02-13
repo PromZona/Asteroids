@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\projects\c++\winapiconsoleapp\winapiconsole\dronegine.h(177): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+d:\projects\c++\winapiconsoleapp\winapiconsole\main.cpp(206): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\projects\c++\winapiconsoleapp\winapiconsole\main.cpp(279): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\projects\c++\winapiconsoleapp\winapiconsole\main.cpp(286): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\projects\c++\winapiconsoleapp\winapiconsole\main.cpp(310): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  WinApiConsole.vcxproj -> D:\Projects\C++\WinApiConsoleApp\x64\Debug\WinApiConsole.exe

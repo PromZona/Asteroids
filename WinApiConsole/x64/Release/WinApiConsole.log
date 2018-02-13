@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\projects\c++\winapiconsoleapp\winapiconsole\Dronegine.h(177): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+main.cpp(206): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+main.cpp(279): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+main.cpp(286): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+main.cpp(310): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  All 369 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  WinApiConsole.vcxproj -> D:\Projects\C++\WinApiConsoleApp\x64\Release\WinApiConsole.exe
